@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0d152b0_03ae1867",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-05-08T08:43:23Z",
+      "side": 1,
+      "message": "```\n05-08 16:39:40.945   629   629 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.qccvndhal@1.0::IQccvndhal/qccvndhal in either framework or device VINTF manifest.\n05-08 16:39:40.946 11000 11000 E HidlServiceManagement: Service vendor.qti.hardware.qccvndhal@1.0::IQccvndhal/qccvndhal must be in VINTF manifest in order to register/get.\n```",
+      "revId": "f2b2030ca561757a50e63797d0226450a3c2ed09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
