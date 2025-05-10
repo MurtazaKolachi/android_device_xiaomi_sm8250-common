@@ -16,6 +16,23 @@
       "message": "Ehh whatever, don\u0027t care. Just make sure you stick to the original change and only deviate when really needed. These calls /should/ be placed in product makefiles as much as possible.",
       "revId": "4f9631781020bb70786a98adbe93cb3db34975c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf9063a7_705e4f26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-05-10T12:18:25Z",
+      "side": 1,
+      "message": "You can also just move the soong config to each device that needs it instead of having something in common and then overriding it",
+      "revId": "4f9631781020bb70786a98adbe93cb3db34975c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
