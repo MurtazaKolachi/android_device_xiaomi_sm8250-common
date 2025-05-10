@@ -52,6 +52,24 @@
       "parentUuid": "022df65d_487c985c",
       "revId": "39d8f83bcbf86962cc0cc80908cec4fc5a4c21ae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93513f37_95337dca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-05-10T10:50:53Z",
+      "side": 1,
+      "message": "Actually, it can be overriden: https://github.com/LineageOS/android_device_xiaomi_umi/blob/lineage-22.2/device.mk#L11. The call comes after this.",
+      "parentUuid": "6191d56c_7195d2d0",
+      "revId": "39d8f83bcbf86962cc0cc80908cec4fc5a4c21ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
