@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa2dba76_b023c745",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-05-10T11:01:53Z",
+      "side": 1,
+      "message": "Ehh whatever, don\u0027t care. Just make sure you stick to the original change and only deviate when really needed. These calls /should/ be placed in product makefiles as much as possible.",
+      "revId": "4f9631781020bb70786a98adbe93cb3db34975c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
