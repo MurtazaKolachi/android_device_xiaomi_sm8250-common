@@ -70,6 +70,24 @@
       "parentUuid": "6191d56c_7195d2d0",
       "revId": "39d8f83bcbf86962cc0cc80908cec4fc5a4c21ae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f45e75f7_6d2823d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-05-10T10:56:34Z",
+      "side": 1,
+      "message": "\u003e Can\u0027t. What devices are overriding it? Is it umi?\n\nmany xiaomi sm8250 devices also do\n\n\u003e The call comes after this.\n\nwhat? makefiles included by `$(call inherit-product)` are parsed after the current makefile completely finishes parsing",
+      "parentUuid": "93513f37_95337dca",
+      "revId": "39d8f83bcbf86962cc0cc80908cec4fc5a4c21ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
