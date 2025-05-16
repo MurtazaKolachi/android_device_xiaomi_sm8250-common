@@ -16,6 +16,24 @@
       "message": "Some sepolicy still use this type.",
       "revId": "ca1c246e84e12975cd00c1a9a7714871bc5fcda6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a9e8ee6_10ca30b4",
+        "filename": "sepolicy/vendor/device.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 32442
+      },
+      "writtenOn": "2025-05-16T15:18:38Z",
+      "side": 0,
+      "message": "Already exists here https://review.lineageos.org/c/LineageOS/android_device_lineage_sepolicy/+/426446/5/common/vendor/device.te",
+      "parentUuid": "0163ce6d_23e7a34a",
+      "revId": "ca1c246e84e12975cd00c1a9a7714871bc5fcda6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
